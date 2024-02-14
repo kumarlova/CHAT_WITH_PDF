@@ -9,7 +9,7 @@ from app import *
 #from llmconstants import api_key
 
 import os
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 
